@@ -1,18 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Baolong</h1>
-<h3 align="center">A passionate Student</h3>
+<h1 align="center">L1x</h1>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761165fc34324dcec1fa43e0a2dada249cecd68bfb8d&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=baolonggg&label=Profile%20views&color=0e75b6&style=flat" alt="baolonggg" /> </p>
-
-- 🔭 I’m currently studying in **UIT**
-
-- 🌱 I’m currently learning **CyberSecurity**
-
-- 💬 Ask me about **WebHacking**
-
-- 📫 How to reach me **baolongtk1232@gmail.com**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=baolonggg&label=Profile%20views&color=0e75b6&style=flat" alt="baolonggg" /> </p
+- UIT student - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100011866004772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100011866004772" height="30" width="40" /></a>
